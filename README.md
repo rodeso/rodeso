@@ -15,7 +15,7 @@
 I am a Student @ FEUP >> L.EIC
 
 - 🔓 FOSS Enthusiast
-- 🎨 Solarized Supremacy
+- 💾 Old-Tech Enjoyer
 - 🐧 GNU/Linux User
 
 ---
