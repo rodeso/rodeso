@@ -10,15 +10,24 @@
 </div>
 
 ---
-### :technologist: About Me :
 
-I am a Student @ FEUP >> L.EIC
+### 🧑‍💻 About Me :
+
+#### I am a Student @ FEUP >> L.EIC
 
 - 🔓 FOSS Enthusiast
-- 💾 Old-Tech Enjoyer
-- 🐧 GNU/Linux User
+- 💾 Dumb-Tech Enjoyer
+- 🐧 Arch Linux User
+
+#### What I Listen To:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rodrigosousa5&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=true&bar_color=ff7800&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rodrigosousa5&redirect=true)
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodeso&theme=dark&background=002b36)](https://git.io/streak-stats)
+
+---
+
+### 🛠️ Tech Stack :
+
