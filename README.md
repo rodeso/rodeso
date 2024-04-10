@@ -25,7 +25,9 @@
 ---
 
 ### 🔥 My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodeso&theme=dark&background=002b36)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodeso&theme=dark&background=002b36"/>
+</div>
 
 ---
 
