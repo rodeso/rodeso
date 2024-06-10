@@ -5,11 +5,6 @@
   welcome  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving GIF" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=solarized-dark&borderColor=%23FFF&textColor=%23FFF" alt="Jokes Card" />
-</div>
-
----
 
 ### 🧑‍💻 About Me :
 
@@ -26,10 +21,13 @@
 
 ### 🔥 My Stats :
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodeso&theme=dark&background=002b36"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodeso&theme=dark&background=002b36" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodeso&layout=compact&bg_color=002b36&text_color=ffffff&title_color=ff7800" height="200px"/>
 </div>
 
 ---
 
 ### 🛠️ Tech Stack :
-
+<div align="center">
+  <img src="https://img.shields.io/badge/python-073642?style=for-the-badge&logo=python&logoColor=b58900" alt="python"/> <img src="https://img.shields.io/badge/C-073642?style=for-the-badge&logo=c&logoColor=d33682"/> <img src="https://img.shields.io/badge/C%2B%2B-073642?style=for-the-badge&logo=c%2B%2B&logoColor=d33682"/> <img src="https://img.shields.io/badge/Java-073642?style=for-the-badge&logo=openjdk&logoColor=dc322f"/> <img src="https://img.shields.io/badge/SQLite-073642?style=for-the-badge&logo=sqlite&logoColor=268bd2"/> <img src="https://img.shields.io/badge/css-073642?style=for-the-badge&logo=css3&logoColor=268bd2" alt="css"/> <img src="https://img.shields.io/badge/HTML5-073642?style=for-the-badge&logo=html5&logoColor=cb4b16"/> <img src="https://img.shields.io/badge/PHP-073642?style=for-the-badge&logo=php&logoColor=6c71c4"/> <img src="https://img.shields.io/badge/JS-073642?style=for-the-badge&logo=javascript&logoColor=b58900"/> <img src="https://img.shields.io/badge/Flutter-073642?style=for-the-badge&logo=flutter&logoColor=268bd2"/>
+</div>
