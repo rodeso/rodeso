@@ -21,8 +21,8 @@
 
 ### 🔥 My Stats :
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodeso&theme=dark&background=002b36" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodeso&layout=compact&bg_color=002b36&text_color=ffffff&title_color=ff7800" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodeso&theme=dark&background=002b36" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodeso&layout=compact&bg_color=002b36&text_color=ffffff&title_color=ff7800" height="150px"/>
 </div>
 
 ---
