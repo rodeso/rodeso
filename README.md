@@ -15,8 +15,7 @@
 - 🐧 openSUSE User
 
 #### What I'm Listening To:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rodrigosousa5&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=true&bar_color=ff7800&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rodrigosousa5&redirect=true)
-
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=r0dri_5&footer_style=normal_stats&bg_color=002b36&count=1)
 ---
 
 ### 🔥 My Stats :
