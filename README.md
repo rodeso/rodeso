@@ -11,8 +11,8 @@
 #### I am a Student @ FEUP >> L.EIC
 
 - 🔓 FOSS Enthusiast
-- 💾 Dumb-Tech Enjoyer
-- 🐧 openSUSE User
+- 💾 Retro-Tech Enjoyer
+- 🐧 Linux and macOS User
 
 #### What I'm Listening To:
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=r0dri_5&footer_style=normal_stats&bg_color=002b36&count=1)
